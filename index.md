@@ -174,14 +174,6 @@ I am a PostDoctorate Reseacher at MLV,EECS,GIST where I work on the autonomous v
   <br>
   [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7856669)]
 
-- **Face-deidentification in images using restricted boltzmann machines**
-  <br>
-  Rafique, M. Aasim, **Shoaib Azam**, Moongu Jeon, and Sangwook Lee
-  <br>
-  International Conference for Internet Technology and Secured Transactions. **ICITST 2016**.
-  <br>
-  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7856669)]
-
 - **Single object tracking system using fast compressive tracking**
   <br>
   Tahir, Abdullah, **Shoaib Azam**, Sujani Sagabala, Moongu Jeon, and Ryu Jeha
