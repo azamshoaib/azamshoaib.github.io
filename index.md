@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a PostDoctorate Reseacher at MLV,EECS,GIST where I work on the autonomous vehicle focus of how to make it socially acceptable and operate it with minimal sensor suite. I have work on an end-to-end complete suite of autonomous vehicle from mapping, localization, perception, planning and control. My research interest include sensorimotor learning, representation learning. I finished my PhD at Machine Learning and Vision Lab at Gwangju Institute of Science and Technology, where I worked under the supervision [Prof.Moongu Jeon](https://sites.google.com/view/mlv/people/professor). My PhD Thesis was titled ["Deep Neural Networks for Understanding Autonomous Vehicle Behavior and Control"](https://library.gist.ac.kr/#/librarySearchDetails?book_no=467171).
+I am a PostDoctorate Researcher at MLV, EECS, GIST. I work on the autonomous vehicle to make it socially acceptable and operate it with minimal sensor suite. I have worked on a complete end-to-end suite of the autonomous vehicle from mapping, localization, perception, planning and control. My research interests include deep learning, autonomous driving, sensorimotor learning, and representation learning. I finished my PhD at Machine Learning and Vision Lab at Gwangju Institute of Science and Technology, where I worked under the supervision [Prof.Moongu Jeon](https://sites.google.com/view/mlv/people/professor). My PhD Thesis was titled ["Deep Neural Networks for Understanding Autonomous Vehicle Behavior and Control"](https://library.gist.ac.kr/#/librarySearchDetails?book_no=467171).
 
 <!-- ## Research Interests
 
