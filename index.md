@@ -42,9 +42,9 @@ I am a PostDoctorate Researcher at MLV, EECS, GIST. I work on the autonomous veh
   <br>
   Farzeen Munir, **Shoaib Azam**, Moongu Jeon, Byung-Geun Lee and Witold Pedrycz
   <br>
-  IEEE Transactions on Intelligent Transportation Systems. **T-ITS 2021** (**Accepted**).
+  IEEE Transactions on Intelligent Transportation Systems. **T-ITS 2021**.
   <br>
-  <!-- [[PDF](https://arxiv.org/pdf/2009.08020.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9518365)] [[Code](https://github.com/likui01/LDNet)]
 
 - **Key Points Estimation and Point Instance Segmentation Approach for Lane Detection**
   <br>
