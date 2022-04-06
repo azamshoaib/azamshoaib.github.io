@@ -12,6 +12,9 @@ I am a PostDoctorate Researcher at MLV, EECS, GIST. I work on the autonomous veh
 - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## News
+- **[March 2022]** Our paper Exploring Thermal Images for Object Detection in Underexposure Regions for Autonomous Driving is accepted to Applied Soft Computing (IF: 6.725).
+- **[March 2022]** Our paper Drivable Region Estimation for Self-Driving Vehicles Using Radar is accepted to IEEE Transactions on Vehicular Technology (IF:5.978).
+- **[Nov 2021]** Our paper ARTSeg: Employing Attention for Thermal images Semantic Segmentation is accepted to [ACPR 2021](http://brain.korea.ac.kr/acpr/).
 - **[June 2021]** Our paper SSTN: Self-Supervised Domain Adaptation Thermal Object Detection for Autonomous Driving is accepted to [IROS 2021](https://www.iros2021.org/).
 - **[June 2021]** Our paper LDNet: End-to-End Lane Marking Detection Approach using a Dynamic Vision Sensor is accepted to IEEE Transactions on Intelligent Transportation Systems (IF:6.492).
 - **[May 2021]** Our paper Key Points Estimation and Point Instance Segmentation Approach for Lane Detection is accepted to IEEE Transactions on Intelligent Transportation Systems (IF:6.492).
@@ -20,6 +23,21 @@ I am a PostDoctorate Researcher at MLV, EECS, GIST. I work on the autonomous veh
 
 ## Publications
 
+- **Exploring Thermal Images for Object Detection in Underexposure Regions for Autonomous Driving**
+  <br>
+  F. Munir, **Shoaib Azam**, M.A. Rafique, A.M. Sheri, M. Jeon and W. Pedrycz
+  <br>
+  Applied Soft Computing, Elsevier. **ASOC 2022**.
+  <br>
+
+- **Drivable Region Estimation for Self-Driving Vehicles Using Radar**
+  <br>
+  MI. Hussain, **Shoaib Azam**, A. Rafiq, AM. Sheri and M. Jeon
+  <br>
+  IEEE Transactions on Vehicular Technology. **T-VT 2022**.
+  <br>
+  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9740418)]
+  
 - **LDNet: End-to-End Lane Marking Detection Approach using a Dynamic Vision Sensor**
   <br>
   Farzeen Munir, **Shoaib Azam**, Moongu Jeon, Byung-Geun Lee and Witold Pedrycz
@@ -66,6 +84,13 @@ I am a PostDoctorate Researcher at MLV, EECS, GIST. I work on the autonomous veh
   **Shoaib Azam**, Syed Omer Gilani, Mohsin Jamil, Yasar Ayaz, Muhammad Naveed, and Muhammad Nasir Khan
   <br>
   Advanced Science Letters. **Adv.Sci.Lett 2015**.
+  <br>
+
+- **ARTSeg: Employing Attention for Thermal images Semantic Segmentation**
+  <br>
+  Farzeen Munir, **Shoaib Azam**, Unse Fatima, and Moongu Jeon
+  <br>
+  Asian Conference on Pattern Recognition (ACPR). **ACPR 2021**.
   <br>
 
 
