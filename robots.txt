@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /assets/pdf/cvs
+
+Sitemap: https://azamshoaib.github.io//sitemap.xml
